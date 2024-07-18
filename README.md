@@ -1,7 +1,7 @@
 # Transaction Dashboard
 MERN Stack Challenge by Roxiler
 <br/>
-View live app via this [Link]
+View live app via this
 <br/>
 <br/>
 Frontend Technologies
